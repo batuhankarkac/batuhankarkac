@@ -5,13 +5,11 @@
 
 - 🤝 I’m looking for help with **Patika.dev Front-End Web Developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/batuhankarkac](https://github.com/batuhankarkac)
-
 - 📫 How to reach me **batuhankarkac@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ali batuhan karkaç" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali batuhan karkaç" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ali-batuhan-k-820442220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-batuhan-k-820442220" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/batuhankarkac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="batuhankarkac" height="30" width="40" /></a>
 </p>
 
