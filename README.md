@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Batuhan Karkaç</h1>
-<h3 align="center">I have attended study in Frontend developer from Turkey</h3>
+<h3 align="center">I have attended study in Frontend developer from Netherlands</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🤝 I’m looking for help with **Patika.dev Front-End Web Developer**
+- 🤝 I’m looking for help with **FreeCodeCamp and Patika.dev Front-End Web Developer**
 
-- 📫 How to reach me **batuhankarkac@gmail.com**
+- 📫 How to reach me **batuhann.karkacc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
